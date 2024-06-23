@@ -1,4 +1,4 @@
-# Project- TRACK PAY
+# TRACK PAY
 
 ## Overview
 
